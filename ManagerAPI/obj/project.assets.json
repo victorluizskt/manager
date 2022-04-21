@@ -199,9 +199,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Manager\\ManagerAPI\\ManagerAPI.csproj",
-      "projectName": "ManagerAPI",
-      "projectPath": "C:\\Manager\\ManagerAPI\\ManagerAPI.csproj",
+      "projectUniqueName": "C:\\Manager\\ManagerAPI\\Manager.API.csproj",
+      "projectName": "Manager.API",
+      "projectPath": "C:\\Manager\\ManagerAPI\\Manager.API.csproj",
       "packagesPath": "C:\\Users\\DCPDTI\\.nuget\\packages\\",
       "outputPath": "C:\\Manager\\ManagerAPI\\obj\\",
       "projectStyle": "PackageReference",

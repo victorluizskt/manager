@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f7a27c8-0afa-4df9-896c-50e3c1cf250f": {
+      "ProjectGuid": "0f7a27c8-0afa-4df9-896c-50e3c1cf250f",
+      "DisplayName": "ManagerAPI",
+      "ColorIndex": 0
+    },
+    "6552ac37-4374-4b46-90f8-2618323c77ed": {
+      "ProjectGuid": "6552ac37-4374-4b46-90f8-2618323c77ed",
+      "DisplayName": "Manager.Domain",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
