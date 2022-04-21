@@ -1,0 +1,11 @@
+C:\Manager\Manager.Utils\bin\Debug\net5.0\Manager.Utils.deps.json
+C:\Manager\Manager.Utils\bin\Debug\net5.0\Manager.Utils.dll
+C:\Manager\Manager.Utils\bin\Debug\net5.0\ref\Manager.Utils.dll
+C:\Manager\Manager.Utils\bin\Debug\net5.0\Manager.Utils.pdb
+C:\Manager\Manager.Utils\obj\Debug\net5.0\Manager.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Manager\Manager.Utils\obj\Debug\net5.0\Manager.Utils.AssemblyInfoInputs.cache
+C:\Manager\Manager.Utils\obj\Debug\net5.0\Manager.Utils.AssemblyInfo.cs
+C:\Manager\Manager.Utils\obj\Debug\net5.0\Manager.Utils.csproj.CoreCompileInputs.cache
+C:\Manager\Manager.Utils\obj\Debug\net5.0\Manager.Utils.dll
+C:\Manager\Manager.Utils\obj\Debug\net5.0\ref\Manager.Utils.dll
+C:\Manager\Manager.Utils\obj\Debug\net5.0\Manager.Utils.pdb
